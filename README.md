@@ -1,4 +1,4 @@
-Ext-ux-form-MultiSearchField
+Ext.ux.form.MultiSearchField
 ============================
 
-SearchField Extension
+A Ext.ux.form.SearchField extension thats allow to make a search with multiples SearchFields
